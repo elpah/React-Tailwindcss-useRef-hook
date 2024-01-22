@@ -1,9 +1,11 @@
 **Understanding useRef**
 ***Preview***
 
+<img  alt="Screenshot 2024-01-22 at 11 03 05 PM" src="https://github.com/elpah/useRefHookExample/assets/81959047/e8d847f8-1db8-43b9-9850-73aeca4efc63">
+
+
 <img  alt="Screenshot 2024-01-22 at 11 03 14 PM" src="https://github.com/elpah/useRefHookExample/assets/81959047/ea47aa39-4aa4-4c60-bfb7-84a4db2b680c">
 
-<img  alt="Screenshot 2024-01-22 at 11 03 05 PM" src="https://github.com/elpah/useRefHookExample/assets/81959047/e8d847f8-1db8-43b9-9850-73aeca4efc63">
 
 - A simple project demonstrating how the useRef hook works
 - Instead of using useState to track every letter change in an input field, we can use the useRef hook
