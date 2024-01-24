@@ -1,10 +1,14 @@
 **Understanding useRef**
 ***Preview***
 
-<img  alt="Screenshot 2024-01-22 at 11 03 05 PM" src="https://github.com/elpah/useRefHookExample/assets/81959047/e8d847f8-1db8-43b9-9850-73aeca4efc63">
 
+<img width="1265" alt="Screenshot 2024-01-24 at 12 39 15 PM" src="https://github.com/elpah/employee-portal/assets/81959047/346191e5-c7fd-47b1-a95e-27708e9f7e30">
 
-<img  alt="Screenshot 2024-01-22 at 11 03 14 PM" src="https://github.com/elpah/useRefHookExample/assets/81959047/ea47aa39-4aa4-4c60-bfb7-84a4db2b680c">
+<img width="1103" alt="Screenshot 2024-01-24 at 12 39 23 PM" src="https://github.com/elpah/employee-portal/assets/81959047/c2251eb0-570d-4300-93c2-1f1206e7c0aa">
+
+<img width="1069" alt="Screenshot 2024-01-24 at 12 39 32 PM" src="https://github.com/elpah/employee-portal/assets/81959047/7f0291b9-8680-4be5-9c0a-67d20bb97d2f">
+
+<img width="1031" alt="Screenshot 2024-01-24 at 12 39 45 PM" src="https://github.com/elpah/employee-portal/assets/81959047/4e46c456-5c60-469f-a61e-0486762456fc">
 
 
 - A simple project demonstrating how the useRef hook works
