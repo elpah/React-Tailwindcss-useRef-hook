@@ -6,10 +6,11 @@ export default function Player() {
 
   const handleSubmit = () => {
     setEnteredPlayerName(playerName.current.value);
+    playerName.current.value = "";
   };
 
   return (
-    <section className="max-w-md mx-auto my-8 p-6 bg-gray-100 rounded-md shadow-md">
+    <section className="max-w-md mx-auto my-8 mb-4 mt-6 p-6 bg-gray-100 rounded-md shadow-md sm:w-64 md:w-72 lg:w-96 sm:h-48 md:h-56 lg:h-64">
       <h2 className="text-2xl font-bold mb-4">
         Welcome {enteredPlayerName ? enteredPlayerName : "unknown entity"}
       </h2>
@@ -17,6 +18,7 @@ export default function Player() {
         <input
           type="text"
           ref={playerName}
+          placeholder="Enter Your name"
           className="border border-gray-300 px-3 py-2 rounded-md w-full"
         />
       </p>
