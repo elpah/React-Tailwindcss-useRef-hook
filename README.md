@@ -18,7 +18,7 @@
 - By accessing playerName.current.value, the input value is retrieved.
 - We then set it to the state (enteredPlayerName) only when needed, minimizing unnecessary state updates.
 - This approach optimizes performance, especially in scenarios where constant re-rendering is not required for every keystroke.
-
+  
 **How to Run the Project**
 1. Open a new terminal
     ```console
